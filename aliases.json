@@ -3,5 +3,6 @@
   "beast": "gh/boywithkeyboard/beast",
   "deco": "gh/deco-cx/deco",
   "devyl": "gh/devylstudio/js",
-  "esbuild": "gh/esbuild/deno-esbuild"
+  "esbuild": "gh/esbuild/deno-esbuild",
+  "std": "gh/denoland/deno_std"
 }
