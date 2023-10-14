@@ -8,7 +8,7 @@ You can add a new alias by editing the `aliases.json` file.
 }
 ```
 
-After you're done, run `npm run check` and open a pull request with your change.
+After you're done, run `npm run fmt` and open a pull request with your change.
 
 **Please note that you can only register ONE alias at a time!**
 

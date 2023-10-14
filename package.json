@@ -1,5 +1,9 @@
 {
   "name": "@den.ooo/aliases",
+  "scripts": {
+    "build": "esbuild scripts/check.ts --bundle --minify --platform=node --format=esm --outfile=./.github/check.mjs && esbuild scripts/fmt.ts --bundle --minify --platform=node --format=esm --outfile=./.github/fmt.mjs",
+    "fmt": "node ./.github/fmt.mjs"
+  },
   "dependencies": {
     "@sinclair/typebox": "^0.31.17",
     "@types/node": "^20.8.6",
