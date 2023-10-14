@@ -5,15 +5,7 @@ import { readFile, writeFile } from 'node:fs/promises'
 async function fmt() {
   const schema = Type.Record(
     Type.RegExp(/^[a-z0-9-]$/),
-    Type.Union([
-      Type.String(),
-      Type.Object({
-        src: Type.String(),
-        attachExtension: Type.Optional(
-          Type.String()
-        )
-      })
-    ])
+    Type.String()
   )
 
   const str = await readFile('./aliases.json', { encoding: 'utf-8' })
