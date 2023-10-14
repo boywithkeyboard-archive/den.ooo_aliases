@@ -2,5 +2,6 @@
   "authenticus": "gh/boywithkeyboard/authenticus",
   "beast": "gh/boywithkeyboard/beast",
   "deco": "gh/deco-cx/deco",
-  "devyl": "gh/devylstudio/js"
+  "devyl": "gh/devylstudio/js",
+  "esbuild": "gh/esbuild/deno-esbuild"
 }
