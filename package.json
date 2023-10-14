@@ -1,0 +1,9 @@
+{
+  "name": "@den.ooo/aliases",
+  "dependencies": {
+    "@sinclair/typebox": "^0.31.17",
+    "@types/node": "^20.8.6",
+    "esbuild": "^0.19.4",
+    "typescript": "^5.2.2"
+  }
+}
