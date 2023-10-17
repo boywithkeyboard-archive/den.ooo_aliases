@@ -1,8 +1,16 @@
 {
   "authenticus": "gh/boywithkeyboard/authenticus",
   "beast": "gh/boywithkeyboard/beast",
+  "brotli": "gh/boywithkeyboard/brotli",
   "deco": "gh/deco-cx/deco",
   "devyl": "gh/devylstudio/js",
   "esbuild": "gh/esbuild/deno-esbuild",
-  "std": "gh/denoland/deno_std"
+  "getter": "gh/boywithkeyboard/getter",
+  "location_data": "gh/boywithkeyboard/location_data",
+  "oauth": "gh/boywithkeyboard/oauth",
+  "otp": "gh/boywithkeyboard/otp",
+  "sms": "gh/boywithkeyboard/sms",
+  "std": "gh/denoland/deno_std",
+  "turnstile": "gh/boywithkeyboard/turnstile",
+  "updater": "gh/boywithkeyboard/updater"
 }
