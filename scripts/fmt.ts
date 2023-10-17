@@ -4,7 +4,7 @@ import { readFile, writeFile } from 'node:fs/promises'
 
 async function fmt() {
   const schema = Type.Record(
-    Type.RegExp(/^[a-z0-9-]$/),
+    Type.RegExp(/^[a-z0-9_]$/),
     Type.String()
   )
 
