@@ -9,6 +9,7 @@
   "location_data": "gh/boywithkeyboard/location_data",
   "oauth": "gh/boywithkeyboard/oauth",
   "otp": "gh/boywithkeyboard/otp",
+  "proxy": "gh/dendotooo/proxy",
   "sms": "gh/boywithkeyboard/sms",
   "std": "gh/denoland/deno_std",
   "turnstile": "gh/boywithkeyboard/turnstile",
