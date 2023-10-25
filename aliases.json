@@ -1,13 +1,10 @@
 {
   "authenticus": "gh/boywithkeyboard/authenticus",
-  "beast": "gh/boywithkeyboard/beast",
   "brotli": "gh/boywithkeyboard/brotli",
   "deco": "gh/deco-cx/deco",
-  "devyl": "gh/devylstudio/js",
   "esbuild": "gh/esbuild/deno-esbuild",
   "getter": "gh/boywithkeyboard/getter",
   "location_data": "gh/boywithkeyboard/location_data",
-  "oauth": "gh/boywithkeyboard/oauth",
   "otp": "gh/boywithkeyboard/otp",
   "proxy": "gh/dendotooo/proxy",
   "sms": "gh/boywithkeyboard/sms",
