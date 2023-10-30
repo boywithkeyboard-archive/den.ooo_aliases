@@ -1,7 +1,7 @@
 {
   "authenticus": "gh/boywithkeyboard/authenticus",
   "brotli": "gh/boywithkeyboard/brotli",
-  "bytes": "gh/boywithkeyboard/bytes",
+  "bytes": "gh/boywithkeyboard/bytes/index.ts",
   "deco": "gh/deco-cx/deco",
   "esbuild": "gh/esbuild/deno-esbuild",
   "getter": "gh/boywithkeyboard/getter",
