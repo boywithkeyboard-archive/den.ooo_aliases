@@ -1,11 +1,11 @@
 {
   "authenticus": "gh/boywithkeyboard/authenticus",
   "brotli": "gh/boywithkeyboard/brotli",
+  "bytes": "gh/boywithkeyboard/bytes",
   "deco": "gh/deco-cx/deco",
   "esbuild": "gh/esbuild/deno-esbuild",
   "getter": "gh/boywithkeyboard/getter",
   "location_data": "gh/boywithkeyboard/location_data",
-  "otp": "gh/boywithkeyboard/otp",
   "proxy": "gh/dendotooo/proxy",
   "sms": "gh/boywithkeyboard/sms",
   "std": "gh/denoland/deno_std",
