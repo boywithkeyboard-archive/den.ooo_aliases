@@ -5,8 +5,6 @@
   "deco": "gh/deco-cx/deco",
   "esbuild": "gh/esbuild/deno-esbuild",
   "getter": "gh/boywithkeyboard/getter/index.ts",
-  "local_cache": "gh/boywithkeyboard/local_cache/index.ts",
-  "location_data": "gh/boywithkeyboard/location_data/index.ts",
   "proxy": "gh/dendotooo/proxy",
   "sms": "gh/boywithkeyboard/sms/index.ts",
   "std": "gh/denoland/deno_std",
