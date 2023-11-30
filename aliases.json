@@ -9,5 +9,6 @@
   "sms": "gh/boywithkeyboard/sms/index.ts",
   "std": "gh/denoland/deno_std",
   "turnstile": "gh/boywithkeyboard/turnstile/index.ts",
-  "updater": "gh/boywithkeyboard/updater"
+  "updater": "gh/boywithkeyboard/updater",
+  "wolfy": "gh/danimydev/wolfy"
 }
