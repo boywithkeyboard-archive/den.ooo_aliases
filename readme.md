@@ -1,5 +1,8 @@
 ## aliases for den.ooo's modules
 
+> [!WARNING]
+> This repository was archived as aliases can now be claimed through our Discord bot. [Join our Discord server](https://den.ooo/discord) to learn more!
+
 You can add a new alias by editing the `aliases.json` file.
 
 ```json
